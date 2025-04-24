@@ -1,6 +1,5 @@
-import { Calender } from '@/figma-icons/calender';
-import Filter from '@/figma-icons/Filter';
-import Link from 'next/link';
+import { Calender } from '@/figma-icons/calender.jsx';
+import Filter from '@/figma-icons/Filter.jsx';
 import { CiSearch } from "react-icons/ci";
 import { MdOutlineAdd } from "react-icons/md";
 

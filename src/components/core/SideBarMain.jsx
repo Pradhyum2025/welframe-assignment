@@ -1,7 +1,7 @@
 'use client'
 import React, { useEffect, useState } from 'react'
 import { MdKeyboardDoubleArrowRight} from "react-icons/md";
-import { Sidebar } from '../common/Sidebar';
+import { Sidebar } from '../common/Sidebar.jsx';
 
 export default function SideBarMain() {
   const [isSlideBarOpen, setIsSlideBarOpen] = useState(false);

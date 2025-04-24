@@ -1,5 +1,5 @@
 'use client'
-import LeftArrow from '@/figma-icons/LeftArrow';
+import LeftArrow from '@/figma-icons/LeftArrow.jsx';
 import Image from 'next/image';
 import ProfileImage from '@/images/Profile-img.png'
 import React from 'react'

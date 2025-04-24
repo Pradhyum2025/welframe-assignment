@@ -1,4 +1,4 @@
-import Header from "@/components/common/Header";
+import Header from "@/components/common/Header.jsx";
 import storyImage1 from '@/images/story-img1.png'
 import storyImage2 from '@/images/story-img2.png'
 import storyImage3 from '@/images/story-img3.png'
@@ -6,11 +6,10 @@ import storyImage4 from '@/images/story-img4.png'
 import storyImage5 from '@/images/story-img5.png'
 import storyImage6 from '@/images/story-img6.png'
 import storyImage7 from '@/images/story-img7.png'
-import StoryCard from "@/components/core/Story";
-import Sidebar from "@/components/common/Sidebar";
-import { SubNavbar } from "@/components/common/subNavbar";
-import { TabNavigation } from "@/components/common/TabNavlinks";
-import SideBarMain from "@/components/core/SideBarMain";
+import StoryCard from "@/components/core/Story.jsx";
+import { SubNavbar } from "@/components/common/subNavbar.jsx";
+import { TabNavigation } from "@/components/common/TabNavlinks.jsx";
+import SideBarMain from "@/components/core/SideBarMain.jsx";
 
 
 export default function Home() {
